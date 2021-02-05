@@ -1,10 +1,10 @@
 # smart_care_dentists
 
-A new Flutter project.
+UI/UX design made with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is UI/UX design of Dentist Checkup App.
 
 A few resources to get you started if this is your first Flutter project:
 
